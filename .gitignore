@@ -1,0 +1,9 @@
+# Rebuilt locally from archives/ by scripts/rebuild_data.py (4.6 GB, too big for GitHub)
+data/raw/
+data/*.zip
+
+# Temp folders created during extraction
+/tmp*/
+
+__pycache__/
+.ipynb_checkpoints/
